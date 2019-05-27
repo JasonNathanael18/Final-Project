@@ -1,0 +1,8 @@
+a.nav-link{
+    color: white !important;
+    font-size: large;
+}
+
+.nav-item.active .nav-link{
+    font-weight: bolder;
+}
