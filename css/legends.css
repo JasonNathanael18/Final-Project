@@ -52,3 +52,17 @@ a.nav-link{
 .bio-data{
 	font-size:x-large;
 }
+
+.more{
+	display: none;
+}
+
+.btnMore{
+	text-align: right;
+	width: 100%;
+}
+
+.btnMore:hover {
+	color: red;
+	cursor:pointer;
+}
